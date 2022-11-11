@@ -1,16 +1,14 @@
+# Hi there 👋
+## Hi there 👋
 ### Hi there 👋
 
-<!--
-**phsu924/phsu924** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+두꺼운
+기울임
+취소선
 
-Here are some ideas to get you started:
+1번
+2번
+3번
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+네이버가자(http//naver.com)
+print("안녕하세요")
